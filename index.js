@@ -20,11 +20,11 @@ return array
 
 function iLoveTheBeatles(number) {
 var array = [];
-var i = 0;
+//var i = 0;
 do {
 array.unshift("I love the Beatles!");
-i++;
+number++;
 }
-while (i < 15);
-
+while (number < 15);
+ return number
 }
