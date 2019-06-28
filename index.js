@@ -23,9 +23,8 @@ var array = [];
 var i = 0;
 do {
 array.unshift("I love");
-i++; 
+i++;
 }
 while (i < 15);
 
 }
-
