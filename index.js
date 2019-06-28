@@ -16,5 +16,16 @@ while (i < facts.length) {
   i++;
 }
 return array
+}
+
+function iLoveTheBeatles(number) {
+var array = [];
+var i = 0;
+do {
+array.unshift("I love");
+i++; 
+}
+while (i < 15);
 
 }
+
