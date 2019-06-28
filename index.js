@@ -22,7 +22,7 @@ function iLoveTheBeatles(number) {
 var array = [];
 var i = 0;
 do {
-array.unshift("I love");
+array.unshift("I love the Beatles!");
 i++;
 }
 while (i < 15);
